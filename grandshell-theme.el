@@ -3,6 +3,7 @@
 ;; Copyright 2014-2018, Steckerhalter
 
 ;; Author: steckerhalter
+;; Version: 1.4
 ;; Keywords: color theme grand shell faces
 ;; URL: https://framagit.org/steckerhalter/grandshell-theme
 
